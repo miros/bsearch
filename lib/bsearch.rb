@@ -1,3 +1,7 @@
+require File.dirname(__FILE__) + '/../ext/bsearch/bsearch'
+
 module Bsearch
-  # Your code goes here...
+  
+  VERSION = '0.0.1'
+  
 end
