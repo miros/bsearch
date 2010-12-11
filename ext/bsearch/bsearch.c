@@ -7,6 +7,6 @@ static VALUE hello_world(VALUE mod)
 
 void Init_bsearch()
 {
-  VALUE mBSearch = rb_define_module("BSearch");
+  VALUE mBSearch = rb_define_module("Bsearch");
   rb_define_singleton_method(mBSearch, "hello_world", hello_world, 0);
 }
