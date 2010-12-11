@@ -1,0 +1,3 @@
+module Bsearch
+  # Your code goes here...
+end
